@@ -7,10 +7,9 @@
 - **Name:** Luxor
 - **Symbol:** LXR
 - **Blockchain:** Solana
-- **Mint Address:** `EBHC7XpycnQhCd3zq8iWmSuhvpGVyM6krjb6pwvgZ4zE`
+- **Mint Address:** Revoked (no account can be mint token)
 - **Max Supply:** 10,000,000 (fully minted)
 - **Freeze Authority:** Revoked (no account can be frozen)
-- **Mint Authority:** Temporarily retained for utility development
 
 ## Vision
 
@@ -29,5 +28,12 @@ The Luxor token is being built openly and progressively. Instead of promising hy
 ## Links
 
 - **Twitter (X):** [@LuxorToken](https://twitter.com/LuxorToken)  
-- **Logo:** [Raw PNG Logo](https://raw.githubusercontent.com/Dominik1907/Luxor-token/main/logo.png)  
+- **Logo:** [Raw PNG Logo](https://raw.githubusercontent.com/Dominik1907/Luxor-token/main/logo.png)
+
+ ### Updates & Announcements
+
+Find the latest developments here:  
+[Luxor Notion Page – News & Updates](https://possible-dormouse-20b.notion.site/Luxor-Token-LXR-Official-Info-1e69bcef4a1f80f3abefcbd45abfa2da)
+
+
 
