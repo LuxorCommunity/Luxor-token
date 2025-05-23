@@ -52,7 +52,7 @@
 - [Twitter / X](https://twitter.com/LuxorToken)  
 - [Telegram Community](https://web.telegram.org/k/#@luxorportal)  
 - [Project Info & Updates (Notion)](https://possible-dormouse-20b.notion.site/Luxor-Token-LXR-Official-Info-1e69bcef4a1f80f3abefcbd45abfa2da)  
-- [Logo PNG]([https://github.com/yourrepo/logo.png](https://github.com/LuxorCommunity/Luxor-token/blob/main/Logo.png)  
+- [Logo PNG](https://github.com/LuxorCommunity/Luxor-token/blob/main/Logo.png) 
 - [Token on Solana Explorer](https://explorer.solana.com/address/EBHC7XpycnQhCd3zq8iWmSuhvpGVyM6krjb6pvwgZ4zE)
 - [Request Access to Exclusive Telegram Group](https://tally.so/r/mDy9GR)
 
